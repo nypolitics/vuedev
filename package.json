@@ -1,0 +1,24 @@
+{
+  "name": "vuedev",
+  "version": "1.0.0",
+  "description": "hello, world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nypolitics/vuedev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nypolitics/vuedev/issues"
+  },
+  "homepage": "https://github.com/nypolitics/vuedev#readme",
+  "dependencies": {
+    "vuepress": "1.2.0"
+  }
+}
